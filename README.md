@@ -9,4 +9,4 @@ Outside of work, I enjoy exploring different creative outlets, such as writing, 
 
 ## I'd love to hear more about you! If you'd like to talk opportunities, or even just want to chat, feel free to connect with me on LinkedIn :)
 
-[![Maya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlekhi)](https://github.com/mlekhi/github-readme-stats)
+[![Maya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlekhi&theme=dark)](https://github.com/mlekhi/github-readme-stats)
