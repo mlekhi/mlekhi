@@ -1,3 +1,5 @@
+![image](https://github.com/mlekhi/mlekhi/assets/121539073/978472fb-ea16-42b8-8fa4-f1e2318453eb)
+
 ### Hey there, nice to meet you! 👋
 
 ## I'm Maya (she/they), a software developer with a passion for creation.
