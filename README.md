@@ -10,6 +10,6 @@ Outside of work, I enjoy working on side projects across a variety of domains, i
 
 I'm also a big fan of hackathons! I started competing in hackathons a year ago, and have won 5 hackathon awards since. I've also hosted my own hackathon!
 
-## I'd love to hear more about you! If you'd like to talk opportunities, or even just want to chat, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/maya-l/) :)
+## I'd love to hear more about you! If you'd like to talk opportunities, or even just want to chat, feel free to connect with me on [twitter](https://www.x.com/maya_l39) or [linkedIn](https://www.linkedin.com/in/maya-l/) :)
 
 [![Maya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlekhi&theme=transparent)](https://github.com/mlekhi/github-readme-stats)
